@@ -10,7 +10,8 @@ My passion for computer science has led me to develop a passion for cybersecurit
 |----------------------------------------------------------------|-------------------|
 |Security Risk Management | <a href="https://coursera.org/share/3eaf7838affabb19856f124bbccef7d8">Labs Completed</a>
 |SEIM Tools (Splunk & Wireshark) | <a href="https://coursera.org/share/3eaf7838affabb19856f124bbccef7d8">Labs Completed</a>
-|Linux, SQL & Python | <a href="https://coursera.org/share/3eaf7838affabb19856f124bbccef7d8">Labs Completed</a>
+|Linux | <a href="https://docs.google.com/document/d/1SX7Tgwc5eyeGtO_kd9Bcg6dxUhZ7AtEEXwpp5yGPIKM/edit?usp=sharing">Labs Completed</a>
+|SQL | <a href="https://docs.google.com/document/d/16ssl9IJnICuqmVjMOr6dgte84aOyExoZBzLVmf7MrpQ/edit?usp=sharing">Labs Completed</a>
 |Monitoring Network Traffic, and Packet Sniffing and Capture | <a href="https://coursera.org/share/3eaf7838affabb19856f124bbccef7d8">Labs Completed</a>
 |Excellent Communication Skills | 10 years + working experience
 |Team/ Collaboration Skells | 10 years + working experience
