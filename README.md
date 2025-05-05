@@ -17,10 +17,6 @@ My passion for computer science has led me to develop a passion for cybersecurit
 |Team/ Collaboration Skells | 10 years + working experience
 | AI Tools (Gemini and ChatGPT | 1 year of working experience
 
-## Tools
-Wireshare
-Splunk
-
 ## Certifications 
 <a href="https://coursera.org/share/3eaf7838affabb19856f124bbccef7d8">Google Cybersecurity Specialization Certificate</a>
 <!--
